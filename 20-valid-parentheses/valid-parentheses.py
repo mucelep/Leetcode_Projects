@@ -17,7 +17,8 @@ class Solution:
         return not stack
 
 
-
+#return not stack stack dolu ise false döndürmesini sağlıyor not'ını alıyor
+#islem bittiginde eleman kaldıysa false döndürüyor
 
 # ({[ ]}) 
 # )}] listeye attıgında
