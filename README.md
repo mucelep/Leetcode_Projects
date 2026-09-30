@@ -16,7 +16,7 @@
 | Zorluk       | Çözülen |
 |--------------|---------|
 | 🟢 Kolay     | 7       |
-| 🟡 Orta      | -       |
+| 🟡 Orta      | 1       |
 | 🔴 Zor       | -       |
 
 ## 🛠️ Kullanılan Diller
